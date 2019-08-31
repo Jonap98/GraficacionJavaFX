@@ -1,0 +1,6 @@
+#button{
+	-fx-text-fill: #498923;
+	-fx-border-color: #498923;
+	-fx-border-radious: 5;
+	-fx-padding: 3 6 6 6;
+}
